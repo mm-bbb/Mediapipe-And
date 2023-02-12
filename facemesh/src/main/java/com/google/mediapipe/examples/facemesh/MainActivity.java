@@ -213,6 +213,7 @@ public class MainActivity extends AppCompatActivity {
     imageView.setVisibility(View.VISIBLE);
   }
 
+
   /** Sets up the UI components for the video demo. */
   private void setupVideoDemoUiComponents() {
     // The Intent to access gallery and read a video file.
